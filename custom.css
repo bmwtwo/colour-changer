@@ -1,3 +1,17 @@
 body {
+	margin: 0;
+}
+
+.third {
+	width: 33%;
+	height: 100%;
+	float: left;
+}
+
+.blue {
+	background-color: rgb(0, 0, 255);
+}
+
+.red {
 	background-color: rgb(255, 0, 0);
 }
